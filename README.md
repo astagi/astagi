@@ -5,7 +5,7 @@ Passionate free software and Open source software contributor, amateur bluesman 
 ### Where to find me
 
 - 📚 on Dev.to [@astagi](https://dev.to/astagi)
-- 🐦 on Twitter [@astagi](https://twitter.com/astagi)
+- 🐦 on Twitter [@4stagi](https://twitter.com/4stagi)
 - 👨‍💼 on [LinkedIn](https://www.linkedin.com/in/andreastagi/)
 
 ### Technologies & Tools
