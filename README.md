@@ -1,6 +1,6 @@
 ### Hello, this is Andrea! 👋
 
-Passionate free software and Open source software contributor, amateur bluesman and biker.
+Passionate FLOSS contributor, amateur bluesman and free biker.
 
 ### Where to find me
 
